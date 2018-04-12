@@ -1,2 +1,2 @@
-# moj-projekt
+# POTOVANJA
 projekt pri OPB
